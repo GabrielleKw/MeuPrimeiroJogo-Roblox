@@ -21,3 +21,7 @@ https://user-images.githubusercontent.com/76081229/178587187-554ea12f-1dd5-4383-
 
 https://user-images.githubusercontent.com/76081229/178588152-64a790dd-d658-42f1-aa41-47af7560be88.mp4
 
+<h3 align="left"> Quem sou eu? </h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/gabriellekwsiqueira/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" height="40" width="40" /></a> 
+<a href="https://twitter.com/Gabrielle_kw" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145812.png" alt="gabekw.twitter" height="40" width="40" /></a>
