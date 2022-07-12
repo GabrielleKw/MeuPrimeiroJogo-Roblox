@@ -3,7 +3,7 @@
 Roblox é uma plataforma de jogos MMOSG e Sandbox baseados normalmente em mundo aberto, multiplataforma e simulação que permite criar do zero seu próprio mundo virtual chamado de 'experiência' ou 'place' onde os milhares de jogadores da plataforma podem interagir sobre.
 </p>
 
-<h1> Você pode joga meu jogo cliclando no play >  <a href="https://www.roblox.com/games/10123540220/GabeeKws-Place#!/about" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/1185/premium/1185877.png?token=exp=1657657483~hmac=4fb9a7d6d8779e64575f7528a564e40f" height="30" width="40" /></a>
+<h1> Você pode jogar cliclando no play >  <a href="https://www.roblox.com/games/10123540220/GabeeKws-Place#!/about" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/1185/premium/1185877.png?token=exp=1657657483~hmac=4fb9a7d6d8779e64575f7528a564e40f" height="30" width="40" /></a>
 </h1> 
 
 ![image](https://user-images.githubusercontent.com/76081229/178580816-51b998aa-8678-4ca6-a892-d444f6ba182b.png)
